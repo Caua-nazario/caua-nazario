@@ -1,16 +1,18 @@
-## Hi there 👋
+# hello, i'm cauã!!
+developer in training| systems analysis and development(ADS)
 
-<!--
-**Caua-nazario/caua-nazario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## featured project
 
-Here are some ideas to get you started:
+### e-commerce
+an e-commerce project developed during my web developmente studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##python projects
+my fist projects and exercises developed in python:
+
+## technologies
+-python
+-html
+-css
+-javascript
+-git
+-github
