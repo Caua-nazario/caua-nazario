@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Cauã Xavier!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Estudante+de+ADS;Desenvolvedor em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Brasil-🇧🇷-green?style=for-the-badge" alt="Brasil" />
+  <img src="https://img.shields.io/badge/Brasil-%F0%9F%87%A7%F0%9F%87%B7-green?style=for-the-badge" alt="Brasil" />
 </p>
 
 ---
@@ -24,16 +24,16 @@
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/Caua-nazario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Caua--nazario-181717?style=for-the-badge&logo=github&logoColor=white" alt="Caua-nazario" />
+  <a href="https://github.com/Caua-nazario">
+    <img src="https://img.shields.io/badge/GitHub-Caua--nazario-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://www.instagram.com/caua_xavier976" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-caua__xavier976-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="caua_xavier976" />
+  <a href="https://www.instagram.com/caua_xavier976">
+    <img src="https://img.shields.io/badge/Instagram-caua__xavier976-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
-  <a href="https://www.linkedin.com/in/cauã-nazário-xavier-056917401" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Naz%C3%A1rio%20Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cauã Nazário Xavier" />
+  <a href="https://www.linkedin.com/in/caua-nazario-xavier-056917401">
+    <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Naz%C3%A1rio%20Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -82,9 +82,9 @@ HTML • CSS • JavaScript • Git • GitHub
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="200" src="https://github-stats-extended.vercel.app/api?username=Caua-nazario&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Caua-nazario&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
 
-  <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Caua-nazario&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-nazario&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
