@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cauã Xavier!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Junior+Full+Stack+Developer;Estudante+de+ADS;Dev em+forma%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
 <p align="center">
