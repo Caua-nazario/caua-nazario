@@ -33,4 +33,62 @@
   </a>
 
   <a href="https://www.linkedin.com/in/caua-nazario-xavier-056917401">
-    <img src="https://img.shields.io/bad
+    <img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Naz%C3%A1rio%20Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
+* 🐍 Python
+* 🔧 Git e GitHub
+* 💻 Desenvolvimento Web
+* 🧠 Lógica de Programação
+* 🏗️ Desenvolvimento de Sistemas
+
+---
+
+## 🚀 Projetos
+
+### 🛒 E-commerce
+
+Projeto desenvolvido em equipe durante os estudos de desenvolvimento web.
+
+**Tecnologias utilizadas:**
+
+HTML • CSS • JavaScript • Git • GitHub
+
+🔗 [Ver projeto no GitHub](https://github.com/Caua-nazario/e-commerce)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Caua-nazario&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Caua-nazario&theme=tokyonight&layout=compact" height="180" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caua-nazario&label=Perfil+visitantes&color=brightgreen" alt="Contador de visitas" />
+</p>
