@@ -79,10 +79,16 @@ HTML • CSS • JavaScript • Git • GitHub
 
 ---
 
-📊 Estatísticas
+## 📊 Estatísticas
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caua-nazario&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Caua-nazario&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua-nazario&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" /> </p>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Caua-nazario&theme=tokyonight&layout=compact" height="180" alt="Top Languages" />
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Caua-nazario&label=Perfil+visitantes&color=brightgreen" alt="Contador de visitas" /> </p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Caua-nazario&label=Perfil+visitantes&color=brightgreen" alt="Contador de visitas" />
+</p>
