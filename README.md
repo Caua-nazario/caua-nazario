@@ -92,11 +92,5 @@ HTML • CSS • JavaScript • Git • GitHub
 ## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caua-nazario&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade no GitHub" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caua-nazario&label=Perfil+visitantes&color=brightgreen" alt="Contador de visitas" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caua-nazario&theme=tokyo-night" alt="Gráfico de atividade no GitHub" />
 </p>
